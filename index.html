@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LGCSE Biology Flashcards</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#006600">
+</head>
+<body>
+
+    <div id="app">
+        <div id="topic-view" class="view active-view">
+            <header>
+                <h1>LGCSE Biology Topics</h1>
+            </header>
+            <main>
+                <ul id="topic-list"></ul>
+            </main>
+        </div>
+
+        <div id="term-list-view" class="view">
+            <header>
+                <div class="breadcrumb">
+                    <button id="back-to-topics">Back to Topics List</button>
+                </div>
+                <h1 id="term-list-title"></h1>
+            </header>
+            <main>
+                <div class="session-controls">
+                    <button id="start-session-btn" class="btn-primary">Start Session</button>
+                    <button id="shuffle-session-btn" class="btn-secondary">Shuffle & Start</button>
+                </div>
+                <ul id="term-list"></ul>
+            </main>
+        </div>
+
+        <div id="flashcard-view" class="view">
+            <header>
+                <div class="breadcrumb">
+                    <button id="back-to-termlist">Back to Term List</button>
+                </div>
+                <h1 id="flashcard-topic-title"></h1>
+            </header>
+            <main>
+                <p class="flip-instruction">Tap the card to see the definition</p>
+                <div id="card-container">
+                    <div id="flashcard">
+                        <div class="card-face card-front">
+                            <p id="card-term"></p>
+                        </div>
+                        <div class="card-face card-back">
+                            <h4 id="card-back-term"></h4>
+                            <p id="card-definition"></p>
+                        </div>
+                    </div>
+                </div>
+                <div id="flashcard-progress">Card 1 of X</div>
+                <div class="flashcard-nav">
+                    <button id="prev-card-btn">Previous</button>
+                    <button id="mark-learned-btn">Mark as Learned</button>
+                    <button id="next-card-btn">Next</button>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script src="glossary.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2522 @@
+{
+  "glossary": [
+    {
+      "topicId": 1,
+      "topicName": "Classification and Diversity of Living Organisms",
+      "terms": [
+        {
+          "term": "Bacteria",
+          "definition": "Single-celled organisms belonging to the Prokaryote kingdom. They are different from other single-celled organisms because their chromosomes are not organised into a nucleus."
+        },
+        {
+          "term": "Binomial",
+          "definition": "A two-word Latin name for a species of organism."
+        },
+        {
+          "term": "Binomial system",
+          "definition": "An internationally agreed system in which the scientific name of an organism is made up of two parts showing the genus and species."
+        },
+        {
+          "term": "Classify",
+          "definition": "To sort things into a meaningful order (e.g. groups of organisms)."
+        },
+        {
+          "term": "Dichotomous",
+          "definition": "Branching into two."
+        },
+        {
+          "term": "Dichotomous key",
+          "definition": "A key used to identify unfamiliar organisms. It is made up of pairs of contrasting features, starting with quite general characteristics and progressing to more specific ones."
+        },
+        {
+          "term": "Eukarya",
+          "definition": "Organisms that have a membrane-bound nucleus."
+        },
+        {
+          "term": "Flagellum",
+          "definition": "A long filament of cytoplasm which projects from some forms of Protoctist or bacteria. Whip-like movements of the flagellum propel the organism through water."
+        },
+        {
+          "term": "Fungus",
+          "definition": "A group of organisms made up of thread-like hyphae instead of cells. Nuclei are spread throughout the cytoplasm. They are heterotrophs (cannot make their own food) because they do not have chloroplasts."
+        },
+        {
+          "term": "Genus (plural: genera)",
+          "definition": "A group of similar and related species."
+        },
+        {
+          "term": "Key",
+          "definition": "A series of questions whose answers lead you to the identification of an organism."
+        },
+        {
+          "term": "Kingdom",
+          "definition": "One of the five large groups into which all living organsisms are classified."
+        },
+        {
+          "term": "Morphology",
+          "definition": "The overall shape and form of an organism's body."
+        },
+        {
+          "term": "Movement",
+          "definition": "An action by an organism or part of an organism causing change of position or place."
+        },
+        {
+          "term": "Nutrition",
+          "definition": "Taking in materials that are required for energy, growth and development."
+        },
+        {
+          "term": "Organism",
+          "definition": "A living thing."
+        },
+        {
+          "term": "Prokaryote",
+          "definition": "Very small, single-celled organisms with a cell wall but no nucleus (e.g. bacteria)."
+        },
+        {
+          "term": "Protoctist",
+          "definition": "Single-celled organisms with a nucleus (e.g. amoeba). Some contain chloroplasts (e.g. Euglena)."
+        },
+        {
+          "term": "Reproduction",
+          "definition": "The processes that make more of the same kind of organism."
+        },
+        {
+          "term": "Respiration",
+          "definition": "The chemical reactions in cells that break down nutrient molecules and release energy for metabolism."
+        },
+        {
+          "term": "Sensitivity",
+          "definition": "The ability to detect or sense changes in the environment (stimuli) and to make appropriate responses."
+        },
+        {
+          "term": "Species",
+          "definition": "A group of organisms with similar characteristics, which can interbreed with each other to produce fertile offspring."
+        },
+        {
+          "term": "Unicellular",
+          "definition": "Made of one cell."
+        },
+        {
+          "term": "Vertebrate",
+          "definition": "An animal that has a backbone as part of a skeleton."
+        },
+        {
+          "term": "Virus",
+          "definition": "A sub-microscopic particle which only reproduces in cells of plants and animals, causing disease."
+        }
+      ]
+    },
+    {
+      "topicId": 2,
+      "topicName": "Cell Structure and Organisation",
+      "terms": [
+        {
+          "term": "Actual size",
+          "definition": "The true size of an object."
+        },
+        {
+          "term": "Cell",
+          "definition": "The smallest basic unit of an animal or plant. It is microscopic and acts as a building block."
+        },
+        {
+          "term": "Cell membrane",
+          "definition": "A very thin layer of fat and protein that surrounds every living cell."
+        },
+        {
+          "term": "Cell sap",
+          "definition": "A solution of sugars and other substances inside the vacuole of a plant cell."
+        },
+        {
+          "term": "Cellulose",
+          "definition": "A polysaccharide carbohydrate which forms fibres and is found in the cell walls of plant cells."
+        },
+        {
+          "term": "Chloroplast",
+          "definition": "An organelle found in some plant cells, which contains chlorophyll and where photosynthesis takes place."
+        },
+        {
+          "term": "Cilia",
+          "definition": "Tiny extensions on the surface of a cell, which can wave in unison and cause fluids to move."
+        },
+        {
+          "term": "Ciliated cells",
+          "definition": "Cells with cytoplasmic 'hairs' called cilia which can flick to produce movement. They are found in the nose and windpipe."
+        },
+        {
+          "term": "Cytoplasm",
+          "definition": "Jelly-like material that is found in cells."
+        },
+        {
+          "term": "Epidermis (plant)",
+          "definition": "A tissue made up of a single layer of cells which covers the top and bottom of a leaf, and the outside of the stem and root."
+        },
+        {
+          "term": "Epithelium",
+          "definition": "A layer of cells in an animal lining the inside of some organs."
+        },
+        {
+          "term": "Goblet cells",
+          "definition": "Cells which secrete mucus."
+        },
+        {
+          "term": "Image size",
+          "definition": "The dimensions of an image seen through a magnifying object such as a hand lens or microscope."
+        },
+        {
+          "term": "Light microscope",
+          "definition": "A microscope that uses light to produce images."
+        },
+        {
+          "term": "Lignin",
+          "definition": "A tough, waterproof material that makes up the walls of xylem vessels; wood is mostly lignin."
+        },
+        {
+          "term": "Magnification",
+          "definition": "The observed size of an image divided by the actual size of the image."
+        },
+        {
+          "term": "Micrometre",
+          "definition": "1×10⁻⁶ metres."
+        },
+        {
+          "term": "Microvilli",
+          "definition": "Microscopic projections on the surface of epithelial cells in the ileum, which increase its surface area for the absorption of digested food molecules."
+        },
+        {
+          "term": "Millimetre",
+          "definition": "A unit of length that is one-thousandth of a metre (1×10⁻³ metre)."
+        },
+        {
+          "term": "Mitochondria",
+          "definition": "Organelles in which aerobic respiration takes place, releasing energy for use by the cell."
+        },
+        {
+          "term": "Mitochondrion (pl. Mitochondria)",
+          "definition": "Tiny organelles in the cytoplasm of animal and plant cells. They are responsible for releasing energy through aerobic respiration."
+        },
+        {
+          "term": "Nucleus",
+          "definition": "A large organelle in which chromosomes are found."
+        },
+        {
+          "term": "Organ",
+          "definition": "A structure made up of a group of tissues, working together to perform specific functions."
+        },
+        {
+          "term": "Organ system",
+          "definition": "A group of organs with related functions, working together to perform body functions."
+        },
+        {
+          "term": "Organelle",
+          "definition": "A structure within a cell."
+        },
+        {
+          "term": "Ribosome",
+          "definition": "Tiny organelles where protein synthesis takes place."
+        },
+        {
+          "term": "Root hair cell",
+          "definition": "A cell on the epidermis of a root with a hair-like outgrowth, increasing the surface area of the cell to absorb water and mineral ions from the soil."
+        },
+        {
+          "term": "Rough endoplasmic reticulum",
+          "definition": "A network of membranes inside a cell, on which ribosomes are present."
+        },
+        {
+          "term": "Specialised",
+          "definition": "A structure which has developed to do one particular job."
+        },
+        {
+          "term": "Stem cells",
+          "definition": "Cells which have not become specialised themselves but can develop into a range of different specialised cells."
+        },
+        {
+          "term": "Tissue",
+          "definition": "A group of cells with similar structures, working together to perform a shared function."
+        },
+        {
+          "term": "Vacuole",
+          "definition": "A fluid-filled space in a cell, surrounded by a membrane."
+        },
+        {
+          "term": "Vesicle",
+          "definition": "A very small vacuole (space inside a cell)."
+        },
+        {
+          "term": "Xylem vessels",
+          "definition": "Long hollow tubes made up of dead, empty cells with lignified walls, which transport water in plants and help to support them."
+        }
+      ]
+    },
+    {
+      "topicId": 3,
+      "topicName": "Movement In and Out of Cells",
+      "terms": [
+        {
+          "term": "Active transport",
+          "definition": "The movement of molecules and ions in or out of a cell through the cell membrane, from a region of their lower concentration to a region of their higher concentration against a concentration gradient, using energy released during respiration."
+        },
+        {
+          "term": "Concentration gradient",
+          "definition": "The difference in concentration on either side of a membrane. The bigger the gradient, the faster a molecule or ion will move from the higher concentration to the lower concentration."
+        },
+        {
+          "term": "Dialysis tubing",
+          "definition": "Tubing made of cellophane which has partially permeable properties. Used for experiments on osmosis."
+        },
+        {
+          "term": "Diffusion",
+          "definition": "The net movement of molecules from a region of their higher concentration to a region of their lower concentration down a concentration gradient, as a result of their random movement."
+        },
+        {
+          "term": "Flaccid",
+          "definition": "A term used to describe a cell that has lost a lot of water, becoming soft."
+        },
+        {
+          "term": "Kinetic energy",
+          "definition": "The energy of movement."
+        },
+        {
+          "term": "Osmosis",
+          "definition": "The diffusion of water molecules from a region of high water potential to a region of lower water potential, through a partially permeable membrane."
+        },
+        {
+          "term": "Partially permeable",
+          "definition": "Allowing some molecules to pass through, but not others."
+        },
+        {
+          "term": "Permeability",
+          "definition": "The extent to which a structure will allow molecules or ions to pass through it."
+        },
+        {
+          "term": "Permeable",
+          "definition": "A structure which allows molecules or ions to pass through it. The cell wall of a plant cell is freely permeable to water and mineral ions."
+        },
+        {
+          "term": "Plasmolysed",
+          "definition": "The condition of a plant cell that has lost so much water that its cytoplasm shrinks and pulls the cell membrane away from the cell wall."
+        },
+        {
+          "term": "Plasmolysis",
+          "definition": "The partial collapse of a cell as the result of loss of water by osmosis."
+        },
+        {
+          "term": "Protein carrier",
+          "definition": "A protein in a membrane, which is involved in the movement of ions, small molecules and larger molecules, such as other proteins, across the membrane. Movement is often against the concentration gradient and requires energy."
+        },
+        {
+          "term": "Turgid",
+          "definition": "A term used to decribe a plant cell that has absorbed water and has cytoplasm that is pressing outwards on the cell wall."
+        },
+        {
+          "term": "Turgor pressure",
+          "definition": "The pressure built up in a plant cell as a result of taking in water by osmosis."
+        },
+        {
+          "term": "Water potential",
+          "definition": "A measure of the tendency for water to move out of a solution; the more water in the solution, the greater its water potential."
+        }
+      ]
+    },
+    {
+      "topicId": 4,
+      "topicName": "Enzymes",
+      "terms": [
+        {
+          "term": "Active site",
+          "definition": "The part of an enzyme molecule into which its substrate fits."
+        },
+        {
+          "term": "Biological catalysts",
+          "definition": "The definition of an enzyme, which is a protein that speeds up reactions, for example, inside cells."
+        },
+        {
+          "term": "Carbohydrase",
+          "definition": "An enzyme that catalyses the breakdown of carbohydrates."
+        },
+        {
+          "term": "Catalase",
+          "definition": "An enzyme found in almost all living tissues, which catalyses the breakdown of hydrogen peroxide to water and oxygen."
+        },
+        {
+          "term": "Catalyst",
+          "definition": "A substance that speeds up a chemical reaction and is not changed by the reaction."
+        },
+        {
+          "term": "Complementary",
+          "definition": "A term to describe how the shape of the active site of an enzyme fits the substance on which it acts."
+        },
+        {
+          "term": "Denaturation",
+          "definition": "The permanent effect of high temperature or extreme pH, changing the shape of the active site of an enzyme. Once denatured, an enzyme cannot catalyse a reaction."
+        },
+        {
+          "term": "Denatured",
+          "definition": "An enzyme is said to be denatured when its molecule has changed shape so much that the substrate can no longer fit into it."
+        },
+        {
+          "term": "Digestive enzyme",
+          "definition": "Enzymes produced in the digestive system which break down large, insoluble food molecules into smaller, soluble ones."
+        },
+        {
+          "term": "Enzyme-substrate complex",
+          "definition": "A temporary combination of an enzyme molecule and the substrate molecule it acts on. The molecules join together at the enzyme's active site."
+        },
+        {
+          "term": "Enzymes",
+          "definition": "Proteins that function as biological catalysts."
+        },
+        {
+          "term": "Extracellular enzyme",
+          "definition": "Enzyme that works outside cells."
+        },
+        {
+          "term": "Intracellular enzyme",
+          "definition": "Enzyme that works inside cells."
+        },
+        {
+          "term": "Maltase",
+          "definition": "An enzyme that breaks down maltose to glucose."
+        },
+        {
+          "term": "Optimum",
+          "definition": "The most favourable (e.g. temperature, pH)."
+        },
+        {
+          "term": "Optimum temperature",
+          "definition": "The temperature at which something happens most rapidly."
+        },
+        {
+          "term": "Pepsin",
+          "definition": "A protease enzyme found in the stomach."
+        },
+        {
+          "term": "Product",
+          "definition": "The substance formed in an enzyme-controlled reaction."
+        },
+        {
+          "term": "Specificity",
+          "definition": "A characteristic of enzymes and antibodies in the way they only act on one substance, for example, amylase only breaks down starch."
+        },
+        {
+          "term": "Substrate",
+          "definition": "The substance on which an enzyme acts."
+        },
+        {
+          "term": "Sucrase",
+          "definition": "A carbohydrase found in the small intestine, which breaks down sucrose to glucose and fructose."
+        },
+        {
+          "term": "Trypsin",
+          "definition": "A protease enzyme found in pancreatic juice."
+        }
+      ]
+    },
+    {
+      "topicId": 5,
+      "topicName": "Animal Nutrition",
+      "terms": [
+        {
+          "term": "Absorption",
+          "definition": "The movement of digested food molecules through the wall of the intestine into the blood or lymph."
+        },
+        {
+          "term": "Alimentary canal",
+          "definition": "Part of the digestive system; a long tube running from mouth to anus."
+        },
+        {
+          "term": "Amino acids",
+          "definition": "Molecules that can link together in long chains to form proteins; they contain carbon, hydrogen, oxygen and nitrogen, and sometimes sulfur."
+        },
+        {
+          "term": "Amylase",
+          "definition": "An enzyme which breaks down starch to maltose."
+        },
+        {
+          "term": "Assimilation",
+          "definition": "The movement of digested food molecules into the cells of the body where they are used, becoming part of the cells."
+        },
+        {
+          "term": "Balanced diet",
+          "definition": "A diet containing some of each of the different types of nutrients, in a suitable quantity and proportions."
+        },
+        {
+          "term": "Benedict's solution",
+          "definition": "A test for the presence of reducing sugar (e.g. glucose). The solution turns from clear blue to cloudy green, then yellow and finally to a red precipitate (deposit) of copper (I) oxide when glucose is present."
+        },
+        {
+          "term": "Bile",
+          "definition": "A liquid made in the liver, stored in the gall bladder and emptied into the small intestine, where it helps to emulsify fats."
+        },
+        {
+          "term": "Biuret test",
+          "definition": "A test for protein."
+        },
+        {
+          "term": "Carbohydrates",
+          "definition": "Starches and sugars."
+        },
+        {
+          "term": "Cement",
+          "definition": "A thin layer of bone-like material covering the roots of the teeth of mammals. It enables the tooth to grip to its bony socket in the jaw."
+        },
+        {
+          "term": "Chemical digestion",
+          "definition": "The breakdown of large molecules of food into smaller ones, done by enzymes."
+        },
+        {
+          "term": "Chyme",
+          "definition": "The partly-digested food, that moves from the stomach into the small intestine."
+        },
+        {
+          "term": "Coronary artery",
+          "definition": "A blood vessel on the surface of the heart which transports oxygenated blood to the heart muscle."
+        },
+        {
+          "term": "Deamination",
+          "definition": "A metabolic reaction that takes place in the liver, in which the nitrogen-containing part of amino acids is removed to form urea, followed by the release of energy from the remainder of the amino acid."
+        },
+        {
+          "term": "Dentine",
+          "definition": "Hard, dense, bony tissue found under the enamel of a tooth. It is softer than enamel and more yellow."
+        },
+        {
+          "term": "Digestion",
+          "definition": "The break-down of large, insoluble food molecules into small molecules using mechanical and chemical processes."
+        },
+        {
+          "term": "Disaccharide",
+          "definition": "A complex sugar; a carbohydrate whose molecules are made of two sugar units."
+        },
+        {
+          "term": "Duct",
+          "definition": "A tube leading from a gland or an organ."
+        },
+        {
+          "term": "Duodenum",
+          "definition": "The first part of the small intestine, opening from the stomach."
+        },
+        {
+          "term": "Egestion",
+          "definition": "The passing out of food that has not been digested, as faeces, through the anus."
+        },
+        {
+          "term": "Emulsification",
+          "definition": "Breaking large globules of fat into tiny droplets, so that they mix easily with water."
+        },
+        {
+          "term": "Emulsify",
+          "definition": "To break down fat globules in the duodenum into tiny droplets, which provides a larger surface area on which the enzyme lipase can act."
+        },
+        {
+          "term": "Enamel",
+          "definition": "Hard outer layer on the crown of a tooth."
+        },
+        {
+          "term": "Faeces",
+          "definition": "The undigested material, plus bacteria, left in the colon after food has been digested and absorbed."
+        },
+        {
+          "term": "Fatty acid",
+          "definition": "A sub-unit of a fat, which is released when the fat has been digested by lipase. A fat is made up of three fatty acid units chemically bonded to one unit of glycerol."
+        },
+        {
+          "term": "Fibre",
+          "definition": "Also known as roughage, it consists of the cellulose cell walls of plants. Humans cannot digest fibre, but it adds bulk to food being moved through the digestive system, keeping the muscles in good tone and preventing constipation."
+        },
+        {
+          "term": "Gastric juice",
+          "definition": "A liquid secreted by glands in the lining of the stomach containing the enzyme protease."
+        },
+        {
+          "term": "Glucose",
+          "definition": "An example of a carbohydrate. It is a monosaccharide sugar, which is soluble and used as a substrate for respiration."
+        },
+        {
+          "term": "Glycogen",
+          "definition": "The polysaccharide that is used as an energy store in animal cells and fungi."
+        },
+        {
+          "term": "Gum",
+          "definition": "Fleshy covering of the jaws through which the crown of a tooth grows."
+        },
+        {
+          "term": "Hepatic artery",
+          "definition": "The blood vessel responsible for transporting oxygenated blood to the liver."
+        },
+        {
+          "term": "Hepatic portal vein",
+          "definition": "A blood vessel that transports blood from the digestive system to the liver."
+        },
+        {
+          "term": "Hepatic vein",
+          "definition": "The blood vessel responsible for transporting blood from the liver to the vena cava."
+        },
+        {
+          "term": "Ileum",
+          "definition": "Part of the small intestine, which is responsible for absorbing digested food and passing it into the bloodstream."
+        },
+        {
+          "term": "Ingestion",
+          "definition": "Taking substances (e.g. food, drink) into the body through the mouth."
+        },
+        {
+          "term": "Iodine solution",
+          "definition": "A chemical reagent used to test for the presence of starch. It turns from brown to blue-black if starch is present."
+        },
+        {
+          "term": "Kwashiorkor",
+          "definition": "A deficiency disease caused by lack of protein in the diet."
+        },
+        {
+          "term": "Lacteal",
+          "definition": "The tube in the centre of a villus into which pass the products of fat digestion in the intestine."
+        },
+        {
+          "term": "Lactose intolerance",
+          "definition": "A digestive problem where the body does not produce enough of the enzyme lactase. Symptoms include flatulence (wind), diarrhoea and stomach pains."
+        },
+        {
+          "term": "Lipase",
+          "definition": "An enzyme that digests fats (lipids) to fatty acids and glycerol."
+        },
+        {
+          "term": "Lipids",
+          "definition": "Fats, oils and waxes."
+        },
+        {
+          "term": "Malnutrition",
+          "definition": "The syllabus defines effects of malnutrition but not the term itself. It generally refers to deficiencies, excesses, or imbalances in a person's intake of energy and/or nutrients."
+        },
+        {
+          "term": "Maltose",
+          "definition": "A disaccharide produced by the digestion of starch."
+        },
+        {
+          "term": "Marasmus",
+          "definition": "A disease resulting from a severe lack of energy in the diet."
+        },
+        {
+          "term": "Mechanical digestion",
+          "definition": "The breakdown of large pieces of food to smaller ones, increasing their surface area; it is done by teeth in the mouth and by the contraction of muscles in the stomach wall."
+        },
+        {
+          "term": "Monosaccharide",
+          "definition": "A simple sugar; a carbohydrate whose molecules are made of one sugar unit."
+        },
+        {
+          "term": "Oesophagus",
+          "definition": "The part of the alimentary canal along which food travels from the mouth to the stomach."
+        },
+        {
+          "term": "Pancreas",
+          "definition": "An organ lying close to the stomach, which is both an endocrine gland (producing insulin and glucagon) and an exocrine gland (producing pancreatic juice)."
+        },
+        {
+          "term": "Pancreatic amylase",
+          "definition": "A starch-digesting enzyme secreted by the pancreas."
+        },
+        {
+          "term": "Pancreatic juice",
+          "definition": "The liquid secreted into the pancreatic duct by the pancreas; it flows into the duodenum where its enzymes help with digestion of fats, proteins and carbohydrates."
+        },
+        {
+          "term": "Peptide",
+          "definition": "A short chain of amino acids resulting from the partial digestion of a protein."
+        },
+        {
+          "term": "Peristalsis",
+          "definition": "Rhythmic contractions of muscles that ripple along a tube for example, peristalsis pushes food through the alimentary canal."
+        },
+        {
+          "term": "Physical digestion",
+          "definition": "The breakdown of food into smaller pieces without chemical change to the food molecules."
+        },
+        {
+          "term": "Plaque",
+          "definition": "A sticky film, containing bacteria, that builds up on teeth."
+        },
+        {
+          "term": "Polysaccharide",
+          "definition": "A carbohydrate whose molecules are made of hundreds of sugar units linked in long chains - for example, starch, glycogen and cellulose."
+        },
+        {
+          "term": "Protease",
+          "definition": "An enzyme that catalyses the breakdown of proteins."
+        },
+        {
+          "term": "Protein",
+          "definition": "A molecule containing the elements carbon, hydrogen, oxygen, nitrogen and sometimes sulfur or phosphorus. Consists of long chains of sub-units called amino acids."
+        },
+        {
+          "term": "Pulp",
+          "definition": "Soft material inside the pulp cavity of a tooth, containing nerves and blood vessels."
+        },
+        {
+          "term": "Reducing sugar",
+          "definition": "A sugar that turns Benedict's solution brick red when heated."
+        },
+        {
+          "term": "Rickets",
+          "definition": "A deficiency disease caused by a shortage of vitamin D in the diet. The main symptom is soft bones which can become deformed."
+        },
+        {
+          "term": "Saliva",
+          "definition": "A fluid produced and secreted by salivary glands in the mouth, containing the enzyme salivary amylase."
+        },
+        {
+          "term": "Salivary amylase",
+          "definition": "A starch-digesting enzyme secreted by salivary glands in the mouth."
+        },
+        {
+          "term": "Salivary gland",
+          "definition": "A gland in the mouth which produces saliva."
+        },
+        {
+          "term": "Scurvy",
+          "definition": "A disease in which skin and blood vessels are susceptible to damage and infection due to lack of vitamin C in the diet."
+        },
+        {
+          "term": "Simple sugar",
+          "definition": "A monosaccharide; a carbohydrate whose molecules are made of one sugar unit."
+        },
+        {
+          "term": "Sphincter muscle",
+          "definition": "A muscle surrounding a tube, which can contract to close the tube."
+        },
+        {
+          "term": "Starch",
+          "definition": "The polysaccharide that is used as an energy store in plant cells."
+        },
+        {
+          "term": "Sucrose",
+          "definition": "A disaccharide, non-reducing sugar, made of a glucose molecule and a fructose molecule linked together; the form in which carbohydrates are transported in the phloem of plants."
+        },
+        {
+          "term": "Villus (plural: villi)",
+          "definition": "A tiny, finger-like projection on the inner wall of the small intestine; villi increase the surface area for digestion and absorption."
+        },
+        {
+          "term": "Vitamins",
+          "definition": "Organic substances required in small quantities in the diet."
+        }
+      ]
+    },
+    {
+      "topicId": 6,
+      "topicName": "Plant Nutrition",
+      "terms": [
+        {
+          "term": "Chlorophyll",
+          "definition": "A green, light-absorbing pigment found inside chloroplasts in plant cells."
+        },
+        {
+          "term": "Cuticle",
+          "definition": "A layer of wax on a leaf."
+        },
+        {
+          "term": "Dicotyledon",
+          "definition": "A plant having two cotyledons in its seed. Dicotyledonous plants tend to have broad stalked leaves with netlike veins (e.g. strawberry, sunflower)."
+        },
+        {
+          "term": "Guard cell",
+          "definition": "One of two sausage-shaped cells in the epidermis in plants, between which there is a hole called a stoma; the guard cells can change shape to open and close the stoma."
+        },
+        {
+          "term": "Lamina",
+          "definition": "The main part of a leaf."
+        },
+        {
+          "term": "Limiting factor",
+          "definition": "Something present in the environment in such short supply that it restricts life processes."
+        },
+        {
+          "term": "Mesophyll",
+          "definition": "The tissues in the centre of a leaf, where photosynthesis takes place."
+        },
+        {
+          "term": "Monocotyledon",
+          "definition": "A plant having one cotyledon in its seed. Monocotyledonous plants tend to have elongated, stalkless leaves with parallel veins (e.g. grasses and lilies)."
+        },
+        {
+          "term": "Nitrate",
+          "definition": "A negative ion with the formula NO3−. It is a common component of fertilisers used to promote plant growth."
+        },
+        {
+          "term": "Palisade layer",
+          "definition": "The upper mesophyll layer in a leaf, made up of rectangular cells containing many chloroplasts."
+        },
+        {
+          "term": "Palisade mesophyll",
+          "definition": "A tissue in the leaf which is the main region for photosynthesis. Made of columnar cells that are packed with chloroplasts to trap light energy."
+        },
+        {
+          "term": "Petiole",
+          "definition": "A leaf stalk."
+        },
+        {
+          "term": "Photosynthesis",
+          "definition": "The process by which plants manufacture carbohydrates from raw materials using energy from light."
+        },
+        {
+          "term": "Shoot",
+          "definition": "The part of a flowering plant that is visible above the ground. It consists of an upright stem with leaves and buds."
+        },
+        {
+          "term": "Spongy layer",
+          "definition": "The tissue beneath the palisade layer in a leaf; it is made up of cells that contain chloroplasts and can photosynthesise, with many air spaces between them."
+        },
+        {
+          "term": "Spongy mesophyll",
+          "definition": "A tissue in the leaf made of spherical, loosely packed cells containing chloroplasts to trap light energy. Air spaces between the cells allow gas exchange."
+        },
+        {
+          "term": "Stoma (plural: stomata)",
+          "definition": "A gap between two guard cells, usually in the epidermis on the lower surface of a leaf."
+        },
+        {
+          "term": "Vascular bundle",
+          "definition": "A vein in a plant, containing xylem vessels and phloem tubes."
+        }
+      ]
+    },
+    {
+      "topicId": 7,
+      "topicName": "Transport in Plants",
+      "terms": [
+        {
+          "term": "Hydrophyte",
+          "definition": "A plant adapted to live in wet conditions."
+        },
+        {
+          "term": "Meniscus",
+          "definition": "The edge of a water surface that curves upwards to touch the edge of a container."
+        },
+        {
+          "term": "Phloem tubes",
+          "definition": "Long tubes made up of living cells with perforated end walls, which transport sucrose and other substances in plants."
+        },
+        {
+          "term": "Potometer",
+          "definition": "Apparatus designed to measure the rate of uptake of water by a plant."
+        },
+        {
+          "term": "Root system",
+          "definition": "Part of a plant below ground. Roots anchor the plant in the soil, absorb water and mineral ions for making food in the leaves and store food."
+        },
+        {
+          "term": "Sink",
+          "definition": "A place to which substrates are transported in phloem."
+        },
+        {
+          "term": "Source",
+          "definition": "A place from which substances are transported in phloem."
+        },
+        {
+          "term": "Translocation",
+          "definition": "The movement of sucrose and amino acids in phloem, from regions of production to regions of storage, or to regions of utilisation in respiration or growth."
+        },
+        {
+          "term": "Transpiration",
+          "definition": "Evaporation of water at the surfaces of the mesophyll cells followed by loss of water vapour from plant leaves, through the stomata."
+        },
+        {
+          "term": "Transpiration stream",
+          "definition": "The pathway of water from the root hairs of a plant, up the root and stem and out of the leaves into the atmosphere."
+        },
+        {
+          "term": "Wilt",
+          "definition": "The excessive loss of water from a plant resulting in the collapse of the leaves and stem."
+        },
+        {
+          "term": "Xerophyte",
+          "definition": "A plant adapted to live in dry conditions."
+        }
+      ]
+    },
+    {
+      "topicId": 8,
+      "topicName": "Transport in Humans",
+      "terms": [
+        {
+          "term": "Active immunity",
+          "definition": "Defence against a pathogen by antibody production in the body."
+        },
+        {
+          "term": "Antibodies",
+          "definition": "Chemicals secreted by lymphocytes, which attach to antigens and help to destroy them."
+        },
+        {
+          "term": "Antigens",
+          "definition": "Chemicals on the surfaces of pathogens, which are recognised as foreign by the body."
+        },
+        {
+          "term": "Aorta",
+          "definition": "The main artery leaving the heart from the left ventricle, carrying oxygenated blood to the head and body."
+        },
+        {
+          "term": "Arteriole",
+          "definition": "Small branch of an artery leading into capillaries."
+        },
+        {
+          "term": "Artery",
+          "definition": "A blood vessel that carries blood away from the heart."
+        },
+        {
+          "term": "Atrioventricular valves",
+          "definition": "Valves between the atria and ventricles in the heart that prevent blood flowing from the ventricles into the atria."
+        },
+        {
+          "term": "Atrium (pl. Atria)",
+          "definition": "The upper chamber of the heart receiving blood from the veins."
+        },
+        {
+          "term": "B cell",
+          "definition": "Lymphocyte derived from bone marrow."
+        },
+        {
+          "term": "Capillaries",
+          "definition": "A tiny blood vessel that delivers blood to tissues."
+        },
+        {
+          "term": "Cardiac muscle",
+          "definition": "The muscle of which the heart is made."
+        },
+        {
+          "term": "Circulatory system",
+          "definition": "A system of blood vessels with a pump and valves to ensure a one-way flow of blood."
+        },
+        {
+          "term": "Coronary heart disease",
+          "definition": "A condition in which the coronary arteries become partly blocked."
+        },
+        {
+          "term": "Deoxygenated blood",
+          "definition": "Blood containing only a little oxygen."
+        },
+        {
+          "term": "Diastole",
+          "definition": "The stage of a heart beat in which the muscles in the heart relax."
+        },
+        {
+          "term": "Double circulatory system",
+          "definition": "A system in which blood passes twice through the heart on one complete circuit of the body."
+        },
+        {
+          "term": "Electrocardiogram (ECG)",
+          "definition": "A trace of electrical activity associated with heartbeat. Any irregularity in the trace can be used to diagnose heart problems."
+        },
+        {
+          "term": "Fibrin",
+          "definition": "An insoluble protein that forms fibres that help in blood clotting."
+        },
+        {
+          "term": "Fibrinogen",
+          "definition": "A soluble protein that is converted to insoluble fibrin when blood clots."
+        },
+        {
+          "term": "Haemoglobin",
+          "definition": "Red, iron-containing pigment in the red blood cells that combines with oxygen."
+        },
+        {
+          "term": "Hypertension",
+          "definition": "High blood pressure."
+        },
+        {
+          "term": "Immune",
+          "definition": "Able to fight off a particular type of pathogen before it causes any symptoms in the body."
+        },
+        {
+          "term": "Immunity",
+          "definition": "Defence against pathogens or disease."
+        },
+        {
+          "term": "Lymph",
+          "definition": "The fluid found inside lymph vessels, formed from tissue fluid."
+        },
+        {
+          "term": "Lymph nodes",
+          "definition": "Organs in which large numbers of white blood cells (which can destroy bacteria or toxins) collect."
+        },
+        {
+          "term": "Lymphocyte",
+          "definition": "A type of white blood cell which makes antibodies."
+        },
+        {
+          "term": "Memory cells",
+          "definition": "Cells produced by activated lymphocytes, that remain in the body and are able to respond quickly to a pathogen."
+        },
+        {
+          "term": "Oxygenated",
+          "definition": "A substance that has had oxygen added to it (e.g. blood in the lungs)."
+        },
+        {
+          "term": "Oxygenated blood",
+          "definition": "Blood containing a lot of oxygen; in humans, blood becomes oxygenated in the lungs."
+        },
+        {
+          "term": "Passive immunity",
+          "definition": "Having antibodies provided from another organism, that temporarily protect against a pathogen."
+        },
+        {
+          "term": "Pathogen",
+          "definition": "A disease-causing organism."
+        },
+        {
+          "term": "Phagocyte",
+          "definition": "A white blood cell that can ingest foreign particles, for example, bacteria."
+        },
+        {
+          "term": "Phagocytes",
+          "definition": "White blood cells that surround, engulf and digest pathogens."
+        },
+        {
+          "term": "Phagocytosis",
+          "definition": "A process of engulfing and digesting harmful bacteria and cell debris."
+        },
+        {
+          "term": "Plasma",
+          "definition": "The liquid part of blood, in which the cells float."
+        },
+        {
+          "term": "Platelets",
+          "definition": "Tiny fragments of cells found in blood, which help with clotting."
+        },
+        {
+          "term": "Pulmonary",
+          "definition": "Relating to the lungs."
+        },
+        {
+          "term": "Pulmonary artery",
+          "definition": "The blood vessel which carries deoxygenated blood from the right ventricle of the heart to the lungs."
+        },
+        {
+          "term": "Pulmonary vein",
+          "definition": "The blood vessel which carries oxygenated blood from the lungs to the left atrium of the heart."
+        },
+        {
+          "term": "Pulse",
+          "definition": "The ripple of pressure that passes down an artery as the result of a heart beat."
+        },
+        {
+          "term": "Semilunar valves",
+          "definition": "Pocket-like valves in the main arteries leaving the heart which prevent the return of blood to the ventricles."
+        },
+        {
+          "term": "Septum",
+          "definition": "A wall of muscle which separates the right and left sides of the heart."
+        },
+        {
+          "term": "Single circulation",
+          "definition": "A circulatory system in which blood flows through the heart once for each complete circulation of the body (e.g. in fish)."
+        },
+        {
+          "term": "Systole",
+          "definition": "The stage of a heart beat in which the muscles in the walls of the heart chambers contract."
+        },
+        {
+          "term": "T cell",
+          "definition": "Lymphocyte derived from the thymus."
+        },
+        {
+          "term": "Tendons",
+          "definition": "Strong, inelastic cords of tissue, which attach muscles to bones; they are also found in the heart, where they attach the atrioventricular valves to the wall of the ventricle."
+        },
+        {
+          "term": "Tissue fluid",
+          "definition": "The fluid that surrounds all the cells in the body, formed from blood plasma that leaks out of capillaries."
+        },
+        {
+          "term": "Vaccination",
+          "definition": "The introduction to the body of dead or weakened pathogens, to make a person immune to an infectious disease."
+        },
+        {
+          "term": "Vaccine",
+          "definition": "A preparation of dead, inactive or harmless bacteria or viruses which, when introduced to the body, causes it to produce antibodies to protect against a disease."
+        },
+        {
+          "term": "Vein",
+          "definition": "A blood vessel that carries blood towards the heart."
+        },
+        {
+          "term": "Vena cava",
+          "definition": "The main vein of the body, carrying blood to the heart."
+        },
+        {
+          "term": "Ventricle",
+          "definition": "A lower, more muscular chamber of the heart which receives blood from an atrium and contracts to pump blood into the arteries."
+        },
+        {
+          "term": "Venule",
+          "definition": "A small vessel that collects blood leaving an organ for transfer to larger veins."
+        }
+      ]
+    },
+    {
+      "topicId": 9,
+      "topicName": "Breathing, Gas Exchange and Respiration",
+      "terms": [
+        {
+          "term": "Aerobic respiration",
+          "definition": "The release of a relatively large amount of energy in cells by the breakdown of nutrient molecules in the presence of oxygen."
+        },
+        {
+          "term": "Alveolus (plural: alveoli)",
+          "definition": "An air sac in the lungs, where gas exchange occurs."
+        },
+        {
+          "term": "Anaerobic respiration",
+          "definition": "The release of a relatively small amount of energy by the breakdown of nutrient molecules in the absence of oxygen."
+        },
+        {
+          "term": "Breathing",
+          "definition": "Muscular movements which cause air to move into and out of the lungs."
+        },
+        {
+          "term": "Bronchi",
+          "definition": "A pair of air pipes branching from the trachea and going to the lungs."
+        },
+        {
+          "term": "Bronchioles",
+          "definition": "The small tubes into which the bronchi branch."
+        },
+        {
+          "term": "Bronchus (plural: bronchi)",
+          "definition": "One of the two tubes into which the trachea branches, carrying air into each lung."
+        },
+        {
+          "term": "Diaphragm",
+          "definition": "A sheet of tissue that separates the thorax from the abdomen. It contains muscles involved in breathing."
+        },
+        {
+          "term": "Emphysema",
+          "definition": "A disease in which the walls of the alveoli in the lungs break down, reducing the surface area for gas exchange."
+        },
+        {
+          "term": "External intercostal muscle",
+          "definition": "Muscles attached to the outside of the ribs, which contract to pull the ribs upwards and outwards to breathe in."
+        },
+        {
+          "term": "Gas exchange",
+          "definition": "The entry of oxygen into an organism's body, and the loss of carbon dioxide."
+        },
+        {
+          "term": "Intercostal muscles",
+          "definition": "Muscles between the ribs, which help to produce breathing movements."
+        },
+        {
+          "term": "Internal intercostal muscle",
+          "definition": "Muscles attached to the inside of the ribs, which contract to pull the ribs downwards and inwards to breathe out."
+        },
+        {
+          "term": "Lactic acid",
+          "definition": "A product of anaerobic respiration in muscles. Its build-up causes muscle cramps and creates oxygen debt."
+        },
+        {
+          "term": "Larynx",
+          "definition": "The voice box. It lies between the back of the mouth and the trachea."
+        },
+        {
+          "term": "Lungs",
+          "definition": "Gas exchange organ found inside the ribcage."
+        },
+        {
+          "term": "Mucus",
+          "definition": "A slippery and stringy fluid substance which is secreted by many cells in the body to act as a lubricant, to prevent dehydration and to trap irritants like dust, smoke or bacteria."
+        },
+        {
+          "term": "Oxygen debt",
+          "definition": "The extra oxygen that must be taken in by the body following strenuous exercise, when anaerobic respiration took place; the oxygen is needed to break down the lactic acid that accumulated as a result of anaerobic respiration."
+        },
+        {
+          "term": "Respirometer",
+          "definition": "An apparatus used to measure the rate of respiration by seeing how quickly oxygen is taken up."
+        },
+        {
+          "term": "Trachea",
+          "definition": "The tube that carries air from the nose and mouth down to the lungs."
+        },
+        {
+          "term": "Ventilation",
+          "definition": "The exchange of air between the lungs and the atmosphere so that oxygen can be exchanged for carbon dioxide in the alveoli."
+        }
+      ]
+    },
+    {
+      "topicId": 10,
+      "topicName": "Excretion in Humans",
+      "terms": [
+        {
+          "term": "Bladder",
+          "definition": "A hollow muscular organ that collects and stores urine from the kidneys before disposal by urination."
+        },
+        {
+          "term": "Cortex",
+          "definition": "In a kidney, the outer layer; in a plant stem or root, a tissue made of typical plant cells (usually, however, without chloroplasts)."
+        },
+        {
+          "term": "Dialysis",
+          "definition": "Exchange of substances between two solutions through a partially permeable membrane; dialysis machines are used in the treatment of people with kidney failure."
+        },
+        {
+          "term": "Excretion",
+          "definition": "Removal from organisms of the waste products of metabolism (chemical reactions in cells including respiration) toxic materials and substances in excess of requirements."
+        },
+        {
+          "term": "Glomerulus",
+          "definition": "A tangle of blood capillaries in a Bowman's capsule in the kidney."
+        },
+        {
+          "term": "Medulla (in kidney)",
+          "definition": "The central area in a kidney."
+        },
+        {
+          "term": "Nephron",
+          "definition": "One of the thousands of tiny tubules in a kidney, in which urine is produced."
+        },
+        {
+          "term": "Nitrogenous waste",
+          "definition": "Excretory products containing nitrogen - for example, ammonia, urea, uric acid."
+        },
+        {
+          "term": "Nitrogenous waste products",
+          "definition": "Urea and similar waste products, like uric acid, from the breakdown of proteins containing the element nitrogen."
+        },
+        {
+          "term": "Pelvis (in kidney)",
+          "definition": "The part from which the ureter emerges."
+        },
+        {
+          "term": "Renal",
+          "definition": "Relating to the kidneys."
+        },
+        {
+          "term": "Renal artery",
+          "definition": "A blood vessel which carries blood from the aorta to a kidney."
+        },
+        {
+          "term": "Renal capsule",
+          "definition": "Also called Bowman's capsule, cup-like structure that makes up part of the nephron, the filtering structure in the mammalian kidney."
+        },
+        {
+          "term": "Renal tubules",
+          "definition": "Tiny tubes in the kidney."
+        },
+        {
+          "term": "Renal vein",
+          "definition": "A blood vessel which carries blood from a kidney to the vena cava."
+        },
+        {
+          "term": "Urea",
+          "definition": "The main nitrogenous excretory product of mammals, produced in the liver from excess amino acids."
+        },
+        {
+          "term": "Ureter",
+          "definition": "A tube that leads from a kidney to the bladder."
+        },
+        {
+          "term": "Urethra",
+          "definition": "A tube that leads from the bladder to the outside."
+        },
+        {
+          "term": "Uric acid",
+          "definition": "Animal waste product containing nitrogen from the breakdown of proteins."
+        },
+        {
+          "term": "Urine",
+          "definition": "A solution of urea and other excretory products in water, produced by the kidneys."
+        }
+      ]
+    },
+    {
+      "topicId": 11,
+      "topicName": "Coordination and Response",
+      "terms": [
+        {
+          "term": "Accommodation",
+          "definition": "The change of shape of the lens, in order to focus on objects at different distances."
+        },
+        {
+          "term": "Adrenal gland",
+          "definition": "Adrenal glands are attached to the back of the abdominal cavity, one above each kidney, and produce the hormone adrenaline."
+        },
+        {
+          "term": "Antagonistic",
+          "definition": "Refers to muscles that oppose each other. For example, circular and radial muscles in the iris of the eye."
+        },
+        {
+          "term": "Auxin",
+          "definition": "A plant hormone which causes cells to elongate."
+        },
+        {
+          "term": "Axon",
+          "definition": "A nerve fibre that conducts impulses away from the cell body."
+        },
+        {
+          "term": "Central nervous system",
+          "definition": "The brain and spinal cord."
+        },
+        {
+          "term": "Ciliary body",
+          "definition": "Part of the eye that produces aqueous humour and contains ciliary muscles."
+        },
+        {
+          "term": "Ciliary muscle",
+          "definition": "A ring of muscle around the lens, which can change its shape."
+        },
+        {
+          "term": "Circular muscle",
+          "definition": "A muscle with a ring shape, which can contract to reduce the diameter of a structure, for example, oesophagus in the digestive system or iris of the eye."
+        },
+        {
+          "term": "Cone cell",
+          "definition": "A light-sensitive cell in the retina, which responds to light of a particular colour."
+        },
+        {
+          "term": "Coordination",
+          "definition": "The processes which make the different systems in an organism work effectively together."
+        },
+        {
+          "term": "Cornea",
+          "definition": "The transparent tissue at the front of the eyeball that refracts light entering the eye to help to focus it."
+        },
+        {
+          "term": "Effector",
+          "definition": "A part of the body that responds to a stimulus, e.g. a muscle or a gland."
+        },
+        {
+          "term": "Endocrine glands",
+          "definition": "The ductless glands that secrete hormones into the blood and together make up the endocrine system."
+        },
+        {
+          "term": "Endocrine system",
+          "definition": "A system depending on hormones that are released into the bloodstream from endocrine glands."
+        },
+        {
+          "term": "Fovea",
+          "definition": "The part of the retina where cones are most tightly packed."
+        },
+        {
+          "term": "Geotropism",
+          "definition": "A response in which a plant grows towards or away from gravity."
+        },
+        {
+          "term": "Gravitropism",
+          "definition": "A response in which a plant grows towards or away from gravity."
+        },
+        {
+          "term": "Hormone",
+          "definition": "A chemical substance produced by a gland, carried by the blood, which alters the activity of one or more specific target organs and is then destroyed by the liver."
+        },
+        {
+          "term": "Involuntary action",
+          "definition": "An action taken automatically, without conscious thought."
+        },
+        {
+          "term": "Iris",
+          "definition": "The coloured part of the eye, which controls the amount of light allowed through to the lens and retina."
+        },
+        {
+          "term": "Lens",
+          "definition": "A transparent, convex, flexible, jelly-like structure that refracts light to focus it onto the retina."
+        },
+        {
+          "term": "Motor neurone",
+          "definition": "A nerve cell which carries electrical impulses from the central nervous system to an effector (e.g. a muscle or a gland)."
+        },
+        {
+          "term": "Myelin",
+          "definition": "A fatty substance surrounding the axons of many neurones, enabling the nerve impulse to travel faster."
+        },
+        {
+          "term": "Nerve",
+          "definition": "A bundle of axons or dendrons belonging to many different neurones."
+        },
+        {
+          "term": "Nerve impulse",
+          "definition": "An electrical signal that sweeps along a neurone."
+        },
+        {
+          "term": "Nervous system",
+          "definition": "A system of the body that coordinates its actions and sensory information by transmitting electrical signals to and from different parts of the body through a series of neurones."
+        },
+        {
+          "term": "Neurone",
+          "definition": "A nerve cell; a cell specialised for the rapid transfer of electrical impulses."
+        },
+        {
+          "term": "Neurotransmitter molecule",
+          "definition": "A chemical messenger which transmits signals across a chemical synapse from one neurone to another neurone."
+        },
+        {
+          "term": "Optic nerve",
+          "definition": "A nerve attached to the back of the eye, which transfers visual information from the retina to the brain by means of electrical impulses."
+        },
+        {
+          "term": "Peripheral nervous system",
+          "definition": "All the nerves and receptors in the body, not including the brain or spinal cord."
+        },
+        {
+          "term": "Phototropism",
+          "definition": "A response in which a plant grows towards or away from the direction from which light is coming."
+        },
+        {
+          "term": "Pupil",
+          "definition": "The hole in the centre of the iris of the eye. Its diameter can be changed by the muscles of the iris, according to the brightness of light entering the eye."
+        },
+        {
+          "term": "Radial muscle",
+          "definition": "A muscle in the iris. When the muscle contracts, the pupil dilates, for example, in dim light."
+        },
+        {
+          "term": "Receptor",
+          "definition": "A cell that is able to detect changes in the environment; often part of a sense organ."
+        },
+        {
+          "term": "Receptor protein",
+          "definition": "A protein which binds to a neurotransmitter substance in a synapse. When this happens, a new nerve impulse is generated."
+        },
+        {
+          "term": "Reflex action",
+          "definition": "A fast, automatic response to a stimulus."
+        },
+        {
+          "term": "Reflex arc",
+          "definition": "The arrangement of neurones along which an impulse passes during a reflex action."
+        },
+        {
+          "term": "Refract",
+          "definition": "Bending, used to describe curved surfaces of the cornea and lens both bending the light rays that enter the eye."
+        },
+        {
+          "term": "Relay neurone",
+          "definition": "A nerve cell, found in the central nervous system, which passes signals from a sensory neurone to a motor neurone."
+        },
+        {
+          "term": "Retina",
+          "definition": "The part of the eye that contains receptor cells."
+        },
+        {
+          "term": "Rod cell",
+          "definition": "A light-sensitive cell in the retina, that responds to dim light."
+        },
+        {
+          "term": "Sense organs",
+          "definition": "Groups of receptor cells responding to specific stimuli: light, sound, touch, temperature and chemicals."
+        },
+        {
+          "term": "Sensory neurone",
+          "definition": "A nerve cell that conducts impulses from a sense organ to the central nervous system."
+        },
+        {
+          "term": "Stimulus",
+          "definition": "A change in an organism's surroundings that can be detected by its sense organs."
+        },
+        {
+          "term": "Suspensory ligaments",
+          "definition": "A ring of ligaments linking the ciliary muscles to the lens."
+        },
+        {
+          "term": "Synapse",
+          "definition": "A point at which an impulse can be passed from one neurone to another."
+        },
+        {
+          "term": "Synaptic cleft",
+          "definition": "A tiny gap between two neurones."
+        },
+        {
+          "term": "Synaptic gap",
+          "definition": "A small space in a synapse between the end of one neurone and the start of another. Neurotransmitter substances diffuse across the gap to trigger a new electrical impulse."
+        },
+        {
+          "term": "Target organ",
+          "definition": "An organ that is affected by a hormone."
+        },
+        {
+          "term": "Transmitter substance",
+          "definition": "A chemical that carries a nerve impulse across a synapse."
+        },
+        {
+          "term": "Tropism",
+          "definition": "A plant growth response to a stimulus, in which the direction of growth is related to the direction of the stimulus."
+        },
+        {
+          "term": "Voluntary action",
+          "definition": "An action taken as the result of a conscious decision."
+        }
+      ]
+    },
+    {
+      "topicId": 12,
+      "topicName": "Homeostasis",
+      "terms": [
+        {
+          "term": "Adipose tissue",
+          "definition": "Tissue made up of cells in which fat is stored."
+        },
+        {
+          "term": "Adrenaline",
+          "definition": "A hormone secreted by the adrenal glands, which prepares the body for 'flight or fight'."
+        },
+        {
+          "term": "Diabetes",
+          "definition": "A condition resulting from an inability to control the level of glucose in the blood due to lack of insulin production by the pancreas."
+        },
+        {
+          "term": "Ectothermic",
+          "definition": "Unable to regulate body temperature physiologically; the organism's temperature varies with that of its environment."
+        },
+        {
+          "term": "Endothermic",
+          "definition": "Able to internally regulate body temperature; the body temperature is independent of the temperature of the environment."
+        },
+        {
+          "term": "Epidermis (mammal)",
+          "definition": "The outer layer of the skin."
+        },
+        {
+          "term": "Glucagon",
+          "definition": "A hormone secreted by the pancreas, which increases blood glucose level."
+        },
+        {
+          "term": "Hair erector muscles",
+          "definition": "Muscles found in the dermis of the skin responsible for raising hairs on the skin to reduce heat loss when the body is cold."
+        },
+        {
+          "term": "Homeostasis",
+          "definition": "The maintenance of a constant internal environment."
+        },
+        {
+          "term": "Hyperglycaemia",
+          "definition": "Having too much glucose in the blood."
+        },
+        {
+          "term": "Hypoglycaemia",
+          "definition": "Having too little glucose in the blood."
+        },
+        {
+          "term": "Hypothalamus",
+          "definition": "A part of the brain that helps to regulate body temperature."
+        },
+        {
+          "term": "Insulin",
+          "definition": "A hormone secreted by the pancreas, which reduces blood glucose level."
+        },
+        {
+          "term": "Insulation",
+          "definition": "Material such as fatty tissue or raised body hairs which reduces heat loss from an animal."
+        },
+        {
+          "term": "Islets of Langerhans",
+          "definition": "Groups of cells in the pancreas which secrete insulin and glucagon."
+        },
+        {
+          "term": "Negative feedback",
+          "definition": "A mechanism used in homeostasis, in which a change in a parameter brings about actions that push it back towards normal."
+        },
+        {
+          "term": "Set point",
+          "definition": "The physiological value around which the normal range fluctuates."
+        },
+        {
+          "term": "Shivering",
+          "definition": "Uncontrollable bursts of rapid muscular contraction in the limbs, releasing heat to increase the body temperature."
+        },
+        {
+          "term": "Sweat glands",
+          "definition": "Structures in the dermis of the skin which secrete sweat to help reduce the body temperature."
+        },
+        {
+          "term": "Sweating",
+          "definition": "The process of secretion of sweat onto the surface of the skin to help reduce the body temperature."
+        },
+        {
+          "term": "Type 1 diabetes",
+          "definition": "A condition in which the pancreas is unable to make insulin."
+        },
+        {
+          "term": "Vasoconstriction",
+          "definition": "Narrowing of blood vessels."
+        },
+        {
+          "term": "Vasodilation",
+          "definition": "Widening of blood vessels."
+        }
+      ]
+    },
+    {
+      "topicId": 13,
+      "topicName": "The Use and Abuse of Drugs",
+      "terms": [
+        {
+          "term": "Antibiotic",
+          "definition": "A drug that kills bacteria in the human body, without damaging human cells."
+        },
+        {
+          "term": "Carcinogen",
+          "definition": "A substance which increases the risk of a person's body developing cancer."
+        },
+        {
+          "term": "Cirrhosis",
+          "definition": "A disease of the liver in which the cells are permanently damaged."
+        },
+        {
+          "term": "Depressant",
+          "definition": "A drug that inhibits the nervous system and slows it down."
+        },
+        {
+          "term": "Drug",
+          "definition": "Any substance taken into the body that modifies or affects chemical reactions in the body."
+        },
+        {
+          "term": "Heroin",
+          "definition": "The syllabus describes the effects of heroin abuse but the glossary does not contain a definition for it."
+        },
+        {
+          "term": "MRSA",
+          "definition": "A bacterium that causes infections in different parts of the body. It can be very difficult to treat because it is resistant to some commonly used antibiotics."
+        },
+        {
+          "term": "Nicotine",
+          "definition": "An addictive drug found in tobacco smoke."
+        },
+        {
+          "term": "Penicillin",
+          "definition": "An antibiotic which destroys bacteria by damaging their cell walls."
+        },
+        {
+          "term": "Resistant",
+          "definition": "Used to describe bacteria which are not killed by antibiotics."
+        },
+        {
+          "term": "Stimulant",
+          "definition": "A drug that makes the nervous system work faster."
+        },
+        {
+          "term": "Toxin",
+          "definition": "A poisonous substance."
+        }
+      ]
+    },
+    {
+      "topicId": 14,
+      "topicName": "Nuclear Division",
+      "terms": [
+        {
+          "term": "Allele",
+          "definition": "Any of two or more alternative forms of a gene."
+        },
+        {
+          "term": "Chromosome",
+          "definition": "A thread-like structure of DNA, made up of a string of genes."
+        },
+        {
+          "term": "Diploid",
+          "definition": "Having two sets of chromosomes."
+        },
+        {
+          "term": "DNA",
+          "definition": "The chemical from which genes and chromosomes are made."
+        },
+        {
+          "term": "Gene",
+          "definition": "A length of DNA that is the unit of heredity and codes for a specific protein."
+        },
+        {
+          "term": "Haploid",
+          "definition": "Having one set of chromosomes."
+        },
+        {
+          "term": "Homologous chromosomes",
+          "definition": "The two chromosomes of a pair in a diploid cell; they have genes for the same features at the same positions."
+        },
+        {
+          "term": "Meiosis",
+          "definition": "Reduction division in which the chromosome number is halved from diploid to haploid."
+        },
+        {
+          "term": "Messenger RNA (mRNA)",
+          "definition": "A single-stranded molecule copied from part of a DNA molecule, which takes the code out of the nucleus to a ribosome to synthesise a protein."
+        },
+        {
+          "term": "Mitosis",
+          "definition": "Nuclear division giving rise to genetically identical cells in which the chromosome number is maintained by the exact duplication of chromosomes."
+        },
+        {
+          "term": "Nucleotide",
+          "definition": "A building block of DNA. It consists of a base (A, T, G or C) plus a molecule of sugar and phosphoric acid."
+        }
+      ]
+    },
+    {
+      "topicId": 15,
+      "topicName": "Reproduction in Plants and Animals",
+      "terms": [
+        {
+          "term": "Acquired immune deficiency syndrome (AIDS)",
+          "definition": "A sexually transmitted infection, also passed on through infected blood and from infected mother to her baby in the uterus, during birth or through the mother's milk. It is caused by a virus called the human immunodeficiency virus (HIV)."
+        },
+        {
+          "term": "Acrosome",
+          "definition": "The tip of a sperm cell, which secretes enzymes to digest the cells around an egg and the egg membrane."
+        },
+        {
+          "term": "Amniotic fluid",
+          "definition": "Fluid secreted by the amnion, which supports and protects a developing fetus."
+        },
+        {
+          "term": "Amniotic sac",
+          "definition": "A fluid-filled sac surrounding the embryo as it develops."
+        },
+        {
+          "term": "Anther",
+          "definition": "The part of a stamen in which pollen is produced."
+        },
+        {
+          "term": "Artificial insemination (AI)",
+          "definition": "A means of achieving pregnancy by introducing semen into the uterus of a female. It is sometimes used in captive breeding programmes to increase numbers of an endangered species."
+        },
+        {
+          "term": "Asexual reproduction",
+          "definition": "The process resulting in the production of genetically identical offspring from one parent."
+        },
+        {
+          "term": "Carpel",
+          "definition": "The female part of a flower."
+        },
+        {
+          "term": "Cervix",
+          "definition": "A ring of muscle separating the vagina from the uterus."
+        },
+        {
+          "term": "Corpus luteum",
+          "definition": "The structure that forms in an ovary after an egg has been released; it secretes progesterone."
+        },
+        {
+          "term": "Cotyledons",
+          "definition": "Food storage structures in a seed, which sometimes come above ground during germination and begin to photosynthesise."
+        },
+        {
+          "term": "Cross-pollination",
+          "definition": "The transfer of pollen from the anther of one plant to the stigma of another plant of the same species."
+        },
+        {
+          "term": "Egg",
+          "definition": "A female gamete."
+        },
+        {
+          "term": "Egg cell",
+          "definition": "Female sex cell (gamete) involved in sexual reproduction. It contains a haploid number of chromosomes."
+        },
+        {
+          "term": "Embryo",
+          "definition": "A young organism before birth, and before all the body organs have formed."
+        },
+        {
+          "term": "Fallopian tube",
+          "definition": "The tube down which the ova pass when released from the ovary. Also called the oviduct."
+        },
+        {
+          "term": "Fertilisation",
+          "definition": "The fusion of the nuclei of two gametes."
+        },
+        {
+          "term": "Fetus",
+          "definition": "A young organism before birth, once all the body organs have formed."
+        },
+        {
+          "term": "Filament",
+          "definition": "The stalk of a stamen."
+        },
+        {
+          "term": "Follicle",
+          "definition": "A space inside an ovary in which an egg develops."
+        },
+        {
+          "term": "Follicle stimulating hormone",
+          "definition": "A hormone produced by the pituitary gland that stimulates the development of an ovum in a follicle."
+        },
+        {
+          "term": "Fruit",
+          "definition": "An ovary of a plant after fertilisation; it contains seeds."
+        },
+        {
+          "term": "FSH",
+          "definition": "Follicle stimulating hormone; a hormone secreted by the pituitary gland which causes the development of eggs in the ovaries."
+        },
+        {
+          "term": "Fuse",
+          "definition": "Part of the process of fertilisation, when the cytoplasm and nuclei of the gametes join together to form a single cell called a zygote."
+        },
+        {
+          "term": "Gametes",
+          "definition": "Sex cells, e.g. eggs and sperm."
+        },
+        {
+          "term": "Hilum",
+          "definition": "The scar where a seed was attached to a fruit."
+        },
+        {
+          "term": "HIV (human immunodeficiency virus)",
+          "definition": "A virus transmitted by sexual contact, and also passed on through infected blood and from infected mother to her baby in the uterus, during birth or through the mother's milk. The infection can lead to AIDS (acquired immune deficiency syndrome)."
+        },
+        {
+          "term": "HIV positive",
+          "definition": "A person who is carrying HIV antibodies in their blood, indicating an infection of the virus."
+        },
+        {
+          "term": "Implant",
+          "definition": "The process by which an early embryo sinks into the lining of the uterus."
+        },
+        {
+          "term": "Implantation",
+          "definition": "The movement of a young embryo into the lining of the uterus, and its attachment there."
+        },
+        {
+          "term": "In vitro fertilisation (IVF)",
+          "definition": "The process of fertilisation where an egg is combined with sperm outside the body (in vitro). Used in captive breeding programmes to increase numbers of an endangered species of animal."
+        },
+        {
+          "term": "Insect-pollinated flowers",
+          "definition": "Flowers producing small amounts of sticky pollen to be spread by insects."
+        },
+        {
+          "term": "Lactation",
+          "definition": "Production of milk by mammary glands."
+        },
+        {
+          "term": "LH",
+          "definition": "Luteinising hormone; a hormone secreted by the pituitary gland which causes an egg to be released from an ovary."
+        },
+        {
+          "term": "Luteinising hormone",
+          "definition": "Also called lutropin (LH), a hormone, produced by the pituitary gland, that stimulates the release of an ovum at ovulation."
+        },
+        {
+          "term": "Menstrual period",
+          "definition": "A stage in the menstrual cycle when the uterus lining breaks down and the cells, along with blood, are passed out of the vagina."
+        },
+        {
+          "term": "Menstruation",
+          "definition": "The loss of the uterus lining through the vagina."
+        },
+        {
+          "term": "Micropyle",
+          "definition": "A tiny hole in the testa of a seed."
+        },
+        {
+          "term": "Nectary",
+          "definition": "A gland producing a sugary fluid, found in many insect- or bird-pollinated flowers."
+        },
+        {
+          "term": "Oestrogen",
+          "definition": "A hormone secreted by the ovaries that helps to control the menstrual cycle."
+        },
+        {
+          "term": "Ovary",
+          "definition": "An organ in which female gametes are made."
+        },
+        {
+          "term": "Oviduct",
+          "definition": "The tube leading from an ovary to the uterus."
+        },
+        {
+          "term": "Ovulation",
+          "definition": "The release of an egg from an ovary."
+        },
+        {
+          "term": "Ovule",
+          "definition": "A structure in the ovary of a flower which contains a female gamete."
+        },
+        {
+          "term": "Ovum (pl. Ova)",
+          "definition": "An alternative name for an egg. Contains a haploid nucleus."
+        },
+        {
+          "term": "Penis",
+          "definition": "Male sex organ which can become firm so that it can be inserted into the vagina of the female during sexual intercourse to transfer sperm."
+        },
+        {
+          "term": "Petal",
+          "definition": "Part of a flower. Often large and brightly coloured to attract insects."
+        },
+        {
+          "term": "Placenta",
+          "definition": "In mammals, an organ made up of tissues of both the mother and embryo, through which the mother's and embryo's bodies exchange nutrients and waste materials."
+        },
+        {
+          "term": "Plumule",
+          "definition": "The young shoot in an embryo plant."
+        },
+        {
+          "term": "Pollen",
+          "definition": "Contains the male sex cell of a flowering plant. The sex cell is haploid."
+        },
+        {
+          "term": "Pollen grains",
+          "definition": "Tough, resistant structures containing the male gametes of a flower."
+        },
+        {
+          "term": "Pollen tube",
+          "definition": "A tube that grows from a pollen grain, carrying the male sex cell to the ovule."
+        },
+        {
+          "term": "Pollination",
+          "definition": "The transfer of pollen from the male part of the flower (anther of stamen) to the female part of the plant (stigma)."
+        },
+        {
+          "term": "Progesterone",
+          "definition": "The pregnancy hormone; a hormone secreted by the ovaries and placenta which maintains the lining of the uterus."
+        },
+        {
+          "term": "Prostate gland",
+          "definition": "A gland close to a male's bladder, that secretes fluid in which sperm can swim."
+        },
+        {
+          "term": "Puberty",
+          "definition": "The stage of development during which sexual maturity is reached."
+        },
+        {
+          "term": "Radicle",
+          "definition": "The young root in an embryo plant."
+        },
+        {
+          "term": "Scrotum",
+          "definition": "A sac which holds the testes outside the body, keeping them cooler than body temperature."
+        },
+        {
+          "term": "Secondary sexual characteristics",
+          "definition": "Physical characteristics developing at puberty which distinguish between the sexes but are not directly involved in reproduction."
+        },
+        {
+          "term": "Seed",
+          "definition": "An ovule after fertilisation; it contains an embryo plant."
+        },
+        {
+          "term": "Self-pollination",
+          "definition": "The transfer of pollen from the anther to the stigma on the same plant (but not necessarily the same flower)."
+        },
+        {
+          "term": "Semen",
+          "definition": "A mixture of sperm and fluids from the prostate gland and seminal vesicles."
+        },
+        {
+          "term": "Seminal vesicles",
+          "definition": "Glands that secrete fluid in which sperm can swim."
+        },
+        {
+          "term": "Sepal",
+          "definition": "A leaf-like structure on the outside of a flower, which protects the flower while in bud."
+        },
+        {
+          "term": "Sexually-transmitted infection",
+          "definition": "An infection that is transmitted via bodily fluids through sexual contact."
+        },
+        {
+          "term": "Sexual reproduction",
+          "definition": "The process involving the fusion of haploid nuclei to form a diploid zygote and the production of genetically dissimilar offspring."
+        },
+        {
+          "term": "Sperm",
+          "definition": "A male gamete."
+        },
+        {
+          "term": "Sperm duct",
+          "definition": "Muscular tube in the male reproductive system that links the testis to the urethra to allow the passage of semen containing sperm."
+        },
+        {
+          "term": "Stamen",
+          "definition": "The male parts of a flower."
+        },
+        {
+          "term": "Stigma",
+          "definition": "The part of a flower that receives pollen."
+        },
+        {
+          "term": "Style",
+          "definition": "The connection between the stigma and ovary of a flower."
+        },
+        {
+          "term": "Testis (plural: testes)",
+          "definition": "An organ in which sperm are made."
+        },
+        {
+          "term": "Testosterone",
+          "definition": "A hormone secreted by the testes, which causes male characteristics."
+        },
+        {
+          "term": "Umbilical cord",
+          "definition": "An organ linking an embryo to the placenta, containing blood vessels."
+        },
+        {
+          "term": "Uterus",
+          "definition": "The organ in a mammal in which the embryo develops."
+        },
+        {
+          "term": "Vagina",
+          "definition": "Part of the female reproductive system which receives the male penis during sexual intercourse. Sperm are deposited in it."
+        },
+        {
+          "term": "Zygote",
+          "definition": "The diploid cell produced when two gametes fuse."
+        }
+      ]
+    },
+    {
+      "topicId": 16,
+      "topicName": "Growth and Development",
+      "terms": [
+        {
+          "term": "Adult stem cell",
+          "definition": "A cell in an adult that can give rise to a limited range of specialised cells."
+        },
+        {
+          "term": "Development",
+          "definition": "An increase in complexity."
+        },
+        {
+          "term": "Dormant",
+          "definition": "A condition in which an organism shuts its metabolism down, so that it can survive in adverse conditions."
+        },
+        {
+          "term": "Embryonic stem cell",
+          "definition": "A cell in an embryo that is capable of giving rise to all types of specialised cell."
+        },
+        {
+          "term": "Germination",
+          "definition": "The process by which a plant grows from a seed."
+        },
+        {
+          "term": "Growth",
+          "definition": "A permanent increase in size and dry mass by an increase in cell number or cell size or both."
+        },
+        {
+          "term": "Root cap",
+          "definition": "A tough, protective covering over the tip of a root."
+        },
+        {
+          "term": "Stem tuber",
+          "definition": "A swollen part of a stem, which stores food."
+        }
+      ]
+    },
+    {
+      "topicId": 17,
+      "topicName": "Inheritance",
+      "terms": [
+        {
+          "term": "Adaptation (adaptive feature)",
+          "definition": "A feature of an organism that helps it survive in its environment."
+        },
+        {
+          "term": "Adaptive features",
+          "definition": "The inherited functional features of an organism that increase its fitness."
+        },
+        {
+          "term": "Artificial selection",
+          "definition": "The choice by a farmer or grower of only the 'best' parents to breed, generation after generation."
+        },
+        {
+          "term": "Base",
+          "definition": "In DNA, one of four substances (A, C, G and T) that make up the genetic code."
+        },
+        {
+          "term": "Clone",
+          "definition": "A group of genetically identical organisms."
+        },
+        {
+          "term": "Co-dominance",
+          "definition": "A situation in which both alleles in heterozygous organisms contribute to the phenotype."
+        },
+        {
+          "term": "Codominance",
+          "definition": "A situation in which both alleles in a heterozygote have an effect on the phenotype."
+        },
+        {
+          "term": "Continuous variation",
+          "definition": "Differences in the features of a group of organisms in which there are no definite categories; each individual's features can lie anywhere between two extremes."
+        },
+        {
+          "term": "Discontinuous variation",
+          "definition": "Differences in the features of a group of organisms where each fits into one of a few clearly defined categories."
+        },
+        {
+          "term": "Dominant",
+          "definition": "An allele that is expressed if it is present (e.g. T or G)."
+        },
+        {
+          "term": "Evolution",
+          "definition": "The change in adaptive features of a population over time, as a result of natural selection."
+        },
+        {
+          "term": "Expression",
+          "definition": "The process by which the instructions carried in a gene of a DNA molecule are activated to make a protein."
+        },
+        {
+          "term": "F1 generation",
+          "definition": "The offspring from a parent homozygous for a dominant allele and a parent homozygous for the recessive allele."
+        },
+        {
+          "term": "Fitness",
+          "definition": "The probability of an organism surviving and reproducing in the environment in which it is found."
+        },
+        {
+          "term": "Gene mutation",
+          "definition": "A change in the base sequence of DNA."
+        },
+        {
+          "term": "Genetic diagram",
+          "definition": "The conventional way to set out a genetic cross."
+        },
+        {
+          "term": "Genetic engineering",
+          "definition": "Taking a gene from one species and putting it into another species."
+        },
+        {
+          "term": "Genetic modification",
+          "definition": "Changing the genetic material of an organism by removing, changing or inserting individual genes."
+        },
+        {
+          "term": "Genetically identical",
+          "definition": "A term used to describe clones, which contain the same genetic information as the parent from which they were formed."
+        },
+        {
+          "term": "Genetically modified (GM)",
+          "definition": "Crops containing genetic material from which genes have been removed, changed or inserted."
+        },
+        {
+          "term": "Genotype",
+          "definition": "The genetic makeup of an organism in terms of the alleles present (e.g. Tt or GG)."
+        },
+        {
+          "term": "Heterozygous",
+          "definition": "Having two different alleles of a gene (e.g. Tt or Gg), not pure-breeding."
+        },
+        {
+          "term": "Homozygous",
+          "definition": "Having two identical alleles of a particular gene (e.g. TT or gg). Two identical homozygous individuals that breed together will be pure-breeding."
+        },
+        {
+          "term": "Inheritance",
+          "definition": "The transmission of genetic information from generation to generation."
+        },
+        {
+          "term": "Ligase",
+          "definition": "An enzyme used in genetic modification to close up plasmids after a gene has been inserted."
+        },
+        {
+          "term": "Mutagen",
+          "definition": "A substance that causes mutations."
+        },
+        {
+          "term": "Mutation",
+          "definition": "A change in a gene or a chromosome."
+        },
+        {
+          "term": "Natural selection",
+          "definition": "The greater chance of passing on of genes by the best-adapted organisms."
+        },
+        {
+          "term": "Pedigree",
+          "definition": "1 A diagram that shows the biological relationships between an organism and its ancestors 2 The record of origin of an animal showing it to be pure-bred."
+        },
+        {
+          "term": "Phenotype",
+          "definition": "The physical or other features of an organism due to both its genotype and its environment (e.g. tall plant or green seed)."
+        },
+        {
+          "term": "Plasmid",
+          "definition": "Small circle of DNA in a bacterium. Often carries genes for antibiotic resistance. Used in genetic modification to introduce foreign DNA."
+        },
+        {
+          "term": "Process of adaptation",
+          "definition": "The process resulting from natural selection, by which populations become more suited to their environment over many generations."
+        },
+        {
+          "term": "Punnett square",
+          "definition": "A square diagram, used to predict the genotypes of a genetic cross."
+        },
+        {
+          "term": "Pure-breeding",
+          "definition": "Homozygous."
+        },
+        {
+          "term": "Ratio",
+          "definition": "The proportion, showing one value compared to another."
+        },
+        {
+          "term": "Recessive",
+          "definition": "An allele that is only expressed when there is no dominant allele of the gene present (e.g. t or g)."
+        },
+        {
+          "term": "Recombinant plasmid",
+          "definition": "A plasmid (a circular DNA strand in a bacterium) into which DNA has been inserted, during the process of genetic modification."
+        },
+        {
+          "term": "Restriction enzyme",
+          "definition": "Enzyme that 'cuts' DNA at specific sites."
+        },
+        {
+          "term": "Selection pressure",
+          "definition": "An environmental factor that causes organisms with certain characteristics to have a better chance of survival than others."
+        },
+        {
+          "term": "Selective breeding",
+          "definition": "A process used by humans to produce varieties of animals and plants that have increased economic importance."
+        },
+        {
+          "term": "Sex-linked characteristic",
+          "definition": "Characteristic in which the gene responsible is located on a sex chromosome, which makes it more common in one sex than in the other."
+        },
+        {
+          "term": "Sex-linked gene",
+          "definition": "A gene found on the X chromosome but not on the Y chromosome."
+        },
+        {
+          "term": "Sickle cell anaemia",
+          "definition": "A condition caused by a codominant allele of the gene that codes for haemoglobin, in which a person has two copies of the gene and suffers serious health problems."
+        },
+        {
+          "term": "Test cross",
+          "definition": "Breeding an offspring with the dominant phenotype with an organism with the recessive phenotype; the offspring of the cross can help to determine the genotype of the parent with the dominant phenotype."
+        },
+        {
+          "term": "Test-cross",
+          "definition": "A genetic cross used to identify an unknown genotype."
+        },
+        {
+          "term": "Variation",
+          "definition": "Differences between individuals of the same species."
+        }
+      ]
+    },
+    {
+      "topicId": 18,
+      "topicName": "Relationships of Organisms with One Another and with the Environment",
+      "terms": [
+        {
+          "term": "Biodiversity",
+          "definition": "The number of different species that live in an area."
+        },
+        {
+          "term": "Biomass",
+          "definition": "The weight (mass) of all the organisms in a population, community or habitat."
+        },
+        {
+          "term": "Carnivore",
+          "definition": "An animal that gets its energy by eating other animals."
+        },
+        {
+          "term": "Community",
+          "definition": "All the organisms, of all the different species, living in an area at the same time."
+        },
+        {
+          "term": "Competition",
+          "definition": "An interaction between organisms or species in which both the organisms or species are harmed. The competition may be for food, water, light, territory or a nesting site."
+        },
+        {
+          "term": "Consumer",
+          "definition": "An organism that gets its energy by feeding on other organisms."
+        },
+        {
+          "term": "Death phase",
+          "definition": "A stage where the number in a population falls rapidly towards zero."
+        },
+        {
+          "term": "Decomposer",
+          "definition": "An organism that gets its energy from dead or waste organic matter."
+        },
+        {
+          "term": "Decomposition",
+          "definition": "The process of rotting (decay) of dead organic material, carried out by decomposers."
+        },
+        {
+          "term": "Deforestation",
+          "definition": "The destruction of large areas of forest."
+        },
+        {
+          "term": "Denitrification",
+          "definition": "A process carried out by denitrifying bacteria in which compounds of nitrogen are converted into gaseous nitrogen."
+        },
+        {
+          "term": "Denitrifying bacteria",
+          "definition": "Bacteria that obtain their energy by converting nitrate ions into nitrogen gas."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "A unit containing all of the organisms and their environment, interacting together, in a given area e.g. decomposing log or a lake."
+        },
+        {
+          "term": "Eutrophication",
+          "definition": "The process by which a body of water becomes enriched in dissolved nutrients (such as phosphates) that stimulate the growth of aquatic plants. It usually results in a reduction of dissolved oxygen, killing the animals living in the water."
+        },
+        {
+          "term": "Exponential (log) phase",
+          "definition": "Part of a sigmoid population growth curve where the population doubles at each generation, producing logarithmic growth. At this stage there are no limiting factors to limit the rate of increase of growth."
+        },
+        {
+          "term": "Exponential phase (log phase)",
+          "definition": "The stage in population growth when numbers increase exponentially."
+        },
+        {
+          "term": "Extinction",
+          "definition": "The time when a species ceases to exist."
+        },
+        {
+          "term": "Food chain",
+          "definition": "A chart showing the flow of energy (food) from one organism to the next beginning with a producer (e.g. mahogany tree → caterpillar → song bird→ hawk)."
+        },
+        {
+          "term": "Food supply",
+          "definition": "One of the factors which can limit the growth of a population."
+        },
+        {
+          "term": "Food web",
+          "definition": "A network of interconnected food chains showing the energy flow through part of an ecosystem."
+        },
+        {
+          "term": "Fossil fuels",
+          "definition": "Fuels such as coal, natural gas and oil which have formed over millions of years from the trapped and compressed remains of dead organisms."
+        },
+        {
+          "term": "Greenhouse effect",
+          "definition": "The warming effect of carbon dioxide, methane and other greenhouse gases, on the Earth."
+        },
+        {
+          "term": "Habitat",
+          "definition": "The place where an organism lives."
+        },
+        {
+          "term": "Herbicide",
+          "definition": "A chemical used to kill plants that compete with crop plants."
+        },
+        {
+          "term": "Herbivore",
+          "definition": "An animal that gets its energy by eating other animals."
+        },
+        {
+          "term": "Insecticide",
+          "definition": "A chemical used to destroy insects that eat and damage plants."
+        },
+        {
+          "term": "Lag phase",
+          "definition": "The early stage of population growth, when numbers scarcely change."
+        },
+        {
+          "term": "Log phase (exponential phase)",
+          "definition": "The stage in population growth when numbers increase exponentially."
+        },
+        {
+          "term": "Monoculture",
+          "definition": "A large area of the same crop plant."
+        },
+        {
+          "term": "Nitrification",
+          "definition": "An important part of the nitrogen cycle in soil, in which ammonia is converted to nitrate by nitrifying bacteria."
+        },
+        {
+          "term": "Nitrifying bacteria",
+          "definition": "Bacteria that obtain their energy by converting ammonia or nitrite ions to nitrate ions."
+        },
+        {
+          "term": "Nitrogen fixation",
+          "definition": "Changing unreactive nitrogen gas into a more reactive nitrogen compound such as nitrate or ammonia."
+        },
+        {
+          "term": "Non-biodegradable",
+          "definition": "Not able to be broken down by microorganisms."
+        },
+        {
+          "term": "Population",
+          "definition": "A group of organisms of one species, living in the same area at the same time."
+        },
+        {
+          "term": "Predation",
+          "definition": "The act of a predator feeding on its prey."
+        },
+        {
+          "term": "Predator",
+          "definition": "An animal that kills and eats other animals."
+        },
+        {
+          "term": "Primary consumers",
+          "definition": "Herbivores."
+        },
+        {
+          "term": "Producer",
+          "definition": "An organism that makes its own organic nutrients, usually using energy from sunlight, through photosynthesis."
+        },
+        {
+          "term": "Pyramid of biomass",
+          "definition": "A sideways-on graph, in which the size of the boxes represents the dry mass of organisms in each trophic level of a food chain."
+        },
+        {
+          "term": "Pyramid of energy",
+          "definition": "A diagram showing the amount of energy at each trophic level in a food chain. It forms the shape of a pyramid."
+        },
+        {
+          "term": "Pyramid of numbers",
+          "definition": "A sideways-on graph, in which the size of the boxes represents the number of organisms in each trophic level of a food chain."
+        },
+        {
+          "term": "Secondary consumers",
+          "definition": "Carnivores that eat herbivores."
+        },
+        {
+          "term": "Sewage treatment",
+          "definition": "The process of removing contaminants from municipal wastewater containing mainly household sewage and some industrial wastewater."
+        },
+        {
+          "term": "Sigmoid",
+          "definition": "A term used to describe an S-shaped curve on a graph."
+        },
+        {
+          "term": "Species diversity",
+          "definition": "The number of different species living in a habitat."
+        },
+        {
+          "term": "Stationary phase",
+          "definition": "A stage when the numbers in a population remain approximately constant."
+        },
+        {
+          "term": "Sustainable development",
+          "definition": "Providing for the needs of an increasing human population without harming the environment."
+        },
+        {
+          "term": "Sustainable resource",
+          "definition": "One which can be removed from the environment without it running out."
+        },
+        {
+          "term": "Tertiary consumer",
+          "definition": "An organism that feeds on secondary consumers for energy."
+        },
+        {
+          "term": "Trophic level",
+          "definition": "The position of an organism in a food chain, food web or pyramid of biomass, numbers or energy."
+        }
+      ]
+    },
+    {
+      "topicId": 19,
+      "topicName": "General Biological Concepts",
+      "terms": [
+        {
+          "term": "Anatomy",
+          "definition": "The detailed body structure of an organism."
+        },
+        {
+          "term": "Atmosphere",
+          "definition": "The envelope of gases surrounding the Earth."
+        },
+        {
+          "term": "Auto-immune disease",
+          "definition": "A disease caused by a person's own immune system attacking parts of their body."
+        },
+        {
+          "term": "Bacterial infection",
+          "definition": "An infection caused by harmful bacteria."
+        },
+        {
+          "term": "Biotechnology",
+          "definition": "The use of living organisms or biological processes for industrial, agricultural or medical purposes."
+        },
+        {
+          "term": "Breeding in captivity",
+          "definition": "The process of encouraging the reproduction of animals in controlled environments, such as wildlife reserves, zoos and other conservation facilities."
+        },
+        {
+          "term": "Cholera",
+          "definition": "A disease caused by a water-borne bacterium, which causes severe diarrhoea."
+        },
+        {
+          "term": "Collision",
+          "definition": "Bumping of molecules due to kinetic energy."
+        },
+        {
+          "term": "Common ancestor",
+          "definition": "A species that lived long ago that is thought to be a distant ancestor of two or more species living today."
+        },
+        {
+          "term": "Control",
+          "definition": "Part of an experiment missing a condition to compare with the variable in which the condition is altered."
+        },
+        {
+          "term": "DCPIP",
+          "definition": "Dichlorophenolindophenol. A blue dye that becomes to colourless in the presence of certain chemicals including vitamin C."
+        },
+        {
+          "term": "Disease",
+          "definition": "An abnormal condition of a part, organ or system of an organism resulting from various causes, for example, infection, inflammation, environmental factors or a genetic defect, and characterised by an identifiable group of signs, symptoms or both."
+        },
+        {
+          "term": "Enhanced greenhouse effect",
+          "definition": "The increase in the greenhouse effect caused by the addition of more greenhouse gases to the atmosphere."
+        },
+        {
+          "term": "Fermenter",
+          "definition": "A large, sterile container used to grow microorganisms, for example, fungi and bacteria, on a large scale, to produce useful products such as insulin, penicillin and mycoprotein."
+        },
+        {
+          "term": "Fermentation",
+          "definition": "The breakdown of glucose by yeast, using anaerobic respiration; it produces carbon dioxide and alcohol."
+        },
+        {
+          "term": "Fully permeable",
+          "definition": "Able to let most substances pass through."
+        },
+        {
+          "term": "Gland",
+          "definition": "An organ which secretes a substance such as an enzyme or hormone."
+        },
+        {
+          "term": "Inorganic",
+          "definition": "Substances that are not made by living organisms."
+        },
+        {
+          "term": "Ionising radiation",
+          "definition": "A type of energy in the form of X-rays, radioactive compounds and ultraviolet light, which can increase the mutation rate. Exposure may lead to cancer."
+        },
+        {
+          "term": "Lumen",
+          "definition": "The inside space in a tubular structure such as an artery."
+        },
+        {
+          "term": "Metabolic reactions",
+          "definition": "The chemical reactions that take place inside a living organism."
+        },
+        {
+          "term": "Microorganism",
+          "definition": "A microscopic organism, for example, a bacterium or Protoctist."
+        },
+        {
+          "term": "Normal distribution",
+          "definition": "A curve in which the largest number occurs near the midpoint, with approximately equal quantities on either side of this point and a gradual decrease towards the extremes."
+        },
+        {
+          "term": "Organic",
+          "definition": "A term used to describe substances that have been made by living organisms, or whose molecules contain carbon, hydrogen and oxygen."
+        },
+        {
+          "term": "Quantitative",
+          "definition": "Results you can measure."
+        },
+        {
+          "term": "Solvent",
+          "definition": "A liquid in which another substance is dissolved."
+        },
+        {
+          "term": "Synthesis",
+          "definition": "The production of an organic compound in a living thing, in a process catalysed by enzymes."
+        },
+        {
+          "term": "Transmissible disease",
+          "definition": "A disease caused by a pathogen that can be passed from one person to another."
+        },
+        {
+          "term": "Variable",
+          "definition": "A factor or condition that can exist in differing amounts."
+        }
+      ]
+    }
+  ]
+}
