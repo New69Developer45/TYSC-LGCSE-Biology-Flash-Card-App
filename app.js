@@ -25,6 +25,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const cardBackTermEl = document.getElementById('card-back-term');
     const progressEl = document.getElementById('flashcard-progress');
     const markLearnedBtn = document.getElementById('mark-learned-btn');
+    const modalOverlayEl = document.getElementById('term-modal-overlay');
+    const modalTermEl = document.getElementById('modal-term');
+    const modalDefinitionEl = document.getElementById('modal-definition');
     
     // --- Data ---
     const allTopics = glossaryData.glossary;
@@ -46,6 +49,21 @@ document.addEventListener('DOMContentLoaded', () => {
         Object.values(views).forEach(view => view.classList.remove('active-view'));
         views[viewId].classList.add('active-view');
         appState.currentView = viewId + '-view';
+    };
+
+    // --- Modal Logic ---
+    const showTermModal = (topicId, termIndex) => {
+        const topic = allTopics.find(t => t.topicId == topicId);
+        const term = topic.terms[termIndex];
+        if (!term) return;
+
+        modalTermEl.textContent = term.term;
+        modalDefinitionEl.textContent = term.definition;
+        modalOverlayEl.classList.add('active');
+    };
+
+    const hideTermModal = () => {
+        modalOverlayEl.classList.remove('active');
     };
 
     // --- Rendering Functions ---
@@ -127,7 +145,6 @@ document.addEventListener('DOMContentLoaded', () => {
         
         progressEl.textContent = `Card ${appState.currentTermIndex + 1} of ${appState.sessionTerms.length}`;
         
-        // Update "Mark as Learned" button state
         const learnedInTopic = appState.learnedTerms[appState.selectedTopicId] || [];
         if (learnedInTopic.includes(currentTerm.term)) {
             markLearnedBtn.classList.add('learned');
@@ -160,6 +177,13 @@ document.addEventListener('DOMContentLoaded', () => {
             renderTermListView(topicItem.dataset.topicId);
         }
     });
+
+    termListEl.addEventListener('click', (e) => {
+        const termItem = e.target.closest('li');
+        if (termItem && termItem.dataset.termIndex) {
+            showTermModal(appState.selectedTopicId, termItem.dataset.termIndex);
+        }
+    });
     
     document.getElementById('back-to-topics').addEventListener('click', renderTopicView);
     document.getElementById('back-to-termlist').addEventListener('click', () => renderTermListView(appState.selectedTopicId));
@@ -183,28 +207,26 @@ document.addEventListener('DOMContentLoaded', () => {
         const termIndexInLearned = appState.learnedTerms[topicId].indexOf(term);
         
         if (termIndexInLearned > -1) {
-            // It's already learned, so unlearn it
             appState.learnedTerms[topicId].splice(termIndexInLearned, 1);
         } else {
-            // It's not learned, so learn it
             appState.learnedTerms[topicId].push(term);
         }
         
         saveLearnedTerms();
-        renderCurrentCard(); // Re-render to update button state
+        renderCurrentCard();
     });
 
-    // --- Swipe Functionality ---
+    // Swipe Functionality
     let touchStartX = 0;
     let touchEndX = 0;
 
     const handleSwipe = () => {
-        const swipeThreshold = 50; // Minimum distance in pixels for a swipe
+        const swipeThreshold = 50;
         if (touchEndX < touchStartX - swipeThreshold) {
-            showNextCard(); // Swiped left
+            showNextCard();
         }
         if (touchEndX > touchStartX + swipeThreshold) {
-            showPrevCard(); // Swiped right
+            showPrevCard();
         }
     };
 
@@ -217,8 +239,15 @@ document.addEventListener('DOMContentLoaded', () => {
         handleSwipe();
     }, { passive: true });
 
+    // Modal Event Handlers
+    document.getElementById('modal-close-btn').addEventListener('click', hideTermModal);
+    modalOverlayEl.addEventListener('click', (e) => {
+        if (e.target === modalOverlayEl) {
+            hideTermModal();
+        }
+    });
 
-    // --- PWA Service Worker Registration ---
+    // PWA Service Worker Registration
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
             navigator.serviceWorker.register('/TYSC-LGCSE-Biology-Flash-Card-App/service-worker.js')
