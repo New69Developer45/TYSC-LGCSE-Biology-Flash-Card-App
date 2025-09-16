@@ -1,13 +1,13 @@
-const CACHE_NAME = 'biology-flashcards-v2'; // Updated version name
+const CACHE_NAME = 'biology-flashcards-v4'; // Updated version name
 const URLS_TO_CACHE = [
-    '/',
-    '/index.html',
-    '/style.css',
-    '/app.js',
-    '/glossary.js',
-    '/icons/icon-192x192.png',
-    '/icons/icon-512x512.png',
-    'https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap' // Add this line
+    '/TYSC-LGCSE-Biology-Flash-Card-App/',
+    '/TYSC-LGCSE-Biology-Flash-Card-App/index.html',
+    '/TYSC-LGCSE-Biology-Flash-Card-App/style.css',
+    '/TYSC-LGCSE-Biology-Flash-Card-App/app.js',
+    '/TYSC-LGCSE-Biology-Flash-Card-App/glossary.js',
+    '/TYSC-LGCSE-Biology-Flash-Card-App/icons/icon-192x192.png',
+    '/TYSC-LGCSE-Biology-Flash-Card-App/icons/icon-512x512.png',
+    'https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap'
 ];
 
 // Install the service worker and cache assets
