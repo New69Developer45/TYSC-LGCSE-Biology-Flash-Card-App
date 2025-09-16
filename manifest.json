@@ -1,19 +1,19 @@
 {
     "name": "LGCSE Biology Flashcards",
     "short_name": "Bio Flashcards",
-    "start_url": "/index.html",
+    "start_url": "/TYSC-LGCSE-Biology-Flash-Card-App/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#006600",
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "icons/icon-192x192.png",
+            "src": "/TYSC-LGCSE-Biology-Flash-Card-App/icons/icon-192x192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "icons/icon-512x512.png",
+            "src": "/TYSC-LGCSE-Biology-Flash-Card-App/icons/icon-512x512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
