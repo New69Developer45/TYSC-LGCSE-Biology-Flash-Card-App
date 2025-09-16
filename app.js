@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const termListEl = document.getElementById('term-list');
     const termListTitleEl = document.getElementById('term-list-title');
     const flashcardTopicTitleEl = document.getElementById('flashcard-topic-title');
+    const cardContainerEl = document.getElementById('card-container');
     const flashcardEl = document.getElementById('flashcard');
     const cardTermEl = document.getElementById('card-term');
     const cardDefinitionEl = document.getElementById('card-definition');
@@ -137,6 +138,21 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    // --- Navigation Logic ---
+    const showNextCard = () => {
+        if (appState.currentTermIndex < appState.sessionTerms.length - 1) {
+            appState.currentTermIndex++;
+            renderCurrentCard();
+        }
+    };
+
+    const showPrevCard = () => {
+        if (appState.currentTermIndex > 0) {
+            appState.currentTermIndex--;
+            renderCurrentCard();
+        }
+    };
+
     // --- Event Handlers ---
     topicListEl.addEventListener('click', (e) => {
         const topicItem = e.target.closest('li');
@@ -153,19 +169,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     flashcardEl.addEventListener('click', () => flashcardEl.classList.toggle('is-flipped'));
 
-    document.getElementById('next-card-btn').addEventListener('click', () => {
-        if (appState.currentTermIndex < appState.sessionTerms.length - 1) {
-            appState.currentTermIndex++;
-            renderCurrentCard();
-        }
-    });
-
-    document.getElementById('prev-card-btn').addEventListener('click', () => {
-        if (appState.currentTermIndex > 0) {
-            appState.currentTermIndex--;
-            renderCurrentCard();
-        }
-    });
+    document.getElementById('next-card-btn').addEventListener('click', showNextCard);
+    document.getElementById('prev-card-btn').addEventListener('click', showPrevCard);
 
     markLearnedBtn.addEventListener('click', () => {
         const topicId = appState.selectedTopicId;
@@ -188,6 +193,30 @@ document.addEventListener('DOMContentLoaded', () => {
         saveLearnedTerms();
         renderCurrentCard(); // Re-render to update button state
     });
+
+    // --- Swipe Functionality ---
+    let touchStartX = 0;
+    let touchEndX = 0;
+
+    const handleSwipe = () => {
+        const swipeThreshold = 50; // Minimum distance in pixels for a swipe
+        if (touchEndX < touchStartX - swipeThreshold) {
+            showNextCard(); // Swiped left
+        }
+        if (touchEndX > touchStartX + swipeThreshold) {
+            showPrevCard(); // Swiped right
+        }
+    };
+
+    cardContainerEl.addEventListener('touchstart', e => {
+        touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    cardContainerEl.addEventListener('touchend', e => {
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe();
+    }, { passive: true });
+
 
     // --- PWA Service Worker Registration ---
     if ('serviceWorker' in navigator) {
