@@ -37,6 +37,7 @@
                     <button id="start-session-btn" class="btn-primary">Start Session</button>
                     <button id="shuffle-session-btn" class="btn-secondary">Shuffle & Start</button>
                 </div>
+                <p class="list-instruction">Tap a term for a quick definition, or start a session to study the full list.</p>
                 <ul id="term-list"></ul>
             </main>
         </div>
@@ -68,6 +69,16 @@
                     <button id="next-card-btn">Next</button>
                 </div>
             </main>
+        </div>
+    </div>
+
+    <div id="term-modal-overlay" class="modal-overlay">
+        <div id="term-modal" class="modal">
+            <button id="modal-close-btn" class="modal-close-btn">&times;</button>
+            <div id="modal-content">
+                <h3 id="modal-term"></h3>
+                <p id="modal-definition"></p>
+            </div>
         </div>
     </div>
 
